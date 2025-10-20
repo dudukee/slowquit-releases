@@ -1,6 +1,12 @@
-# slowquit-releases
+# SlowQuit Releases
 
+<div align="center">
 
+**Official Release Repository for SlowQuit - macOS App for Preventing Accidental Quits**
+
+[Source Code](https://github.com/dudukee/slowquit-releases)
+
+</div>
 
 ### Installation Process:
 
