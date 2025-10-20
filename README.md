@@ -1,6 +1,6 @@
-# SlowQuit Releases
-
 <div align="center">
+      
+# SlowQuit Releases
 
 **Official Release Repository for SlowQuit - macOS App for Preventing Accidental Quits**
 
